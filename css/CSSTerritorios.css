@@ -1,0 +1,38 @@
+.segmentos, #division-success, #addTerritorio, #territorioBorrado, #newTerrAdd{
+	display: none;
+}
+
+ #addTerritorio{
+ 	margin-bottom: 20px;
+ 	margin-left: 17px;
+ }
+
+#modificar-division{
+	margin-left: 2%;
+}
+
+.encabezado_tabla{
+	color: white !important;
+}
+
+#sin-territorios{
+	color: red;
+}
+
+#img-sin-territorios{
+	width: 10%;
+	position: absolute;
+	left: 40%;
+}
+
+#div-sin-territorios{
+	margin: 10px auto;
+	position: relative;
+}
+
+#nonExistentTerritorioDiv{
+	margin-top: 40px;
+}
+
+
+

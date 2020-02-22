@@ -1,0 +1,23 @@
+#logotipo_mobile{
+	width: 25%;
+	height: 150px;
+	position: absolute;
+	top:-60%;
+}
+
+#logotipo_desktop{
+	height: 145px;
+}
+
+#foto{
+	width: 230px;
+}
+
+#foto img{
+	margin: auto;
+}
+
+#delay{
+	margin-top:15px;
+	color:red;	
+}

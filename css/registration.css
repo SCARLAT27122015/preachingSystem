@@ -1,0 +1,9 @@
+#ADD_CONGREGACION{
+	display: none;
+}
+
+.invalid{
+	display: none;
+	color:red;
+	font-size: 13px;
+}

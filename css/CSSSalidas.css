@@ -1,0 +1,26 @@
+#INVALID_INCONGRUENCIA_FECHAS{
+	margin-left: 6px;
+}
+
+.title{
+	margin-bottom: 20px;
+}
+
+.forbidden{
+	color:red;
+}
+
+.forbidden a{
+	font-weight: bold;
+	color:red;
+	text-decoration:underline;
+}
+
+#planesPredicacionCongregacion, .seccion{
+	margin-top: 50px;
+}
+
+#planescerrados,#planBorrado, #planCerradoExitoso{
+	display: none;
+}
+

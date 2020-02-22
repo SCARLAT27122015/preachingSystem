@@ -1,0 +1,45 @@
+.invalid{
+	display: none;
+	color:red;
+	font-size: 13px;
+}
+
+.buscador{
+	margin-top: 20px;
+}
+
+#usuarioBorrado{
+	display: none;
+}
+
+#sin-usuarios{
+	color: red;
+}
+
+.profileImage{
+	border-radius: 10px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.profileImage:hover{
+	opacity: 0.7;
+}
+
+#nombreProfile{
+	
+	margin: auto;
+}
+
+#USERS_FOTO{
+	margin-bottom: 20px;
+}
+
+#loginForm, #registerForm{
+	color: 	red;
+}
+
+#SALIDAS_ALLPERMISSIONS{
+	margin-left: 0.5px;
+}
+
